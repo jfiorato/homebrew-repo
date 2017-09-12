@@ -3,7 +3,7 @@ class Icu4c58 < Formula
   homepage "http://site.icu-project.org/"
   url "https://ssl.icu-project.org/files/icu4c/58.2/icu4c-58_2-src.tgz"
   version "58.2"
-  md5 "fac212b32b7ec7ab007a12dff1f3aea1"
+  sha256 "2b0a4410153a9b20de0e20c7d8b66049a72aef244b53683d0d7521371683da0c"
 
   bottle do
     cellar :any
